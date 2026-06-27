@@ -6,10 +6,12 @@
 
 ## ✨ Funzionalità Principali
 
-* **Doppia Modalità d'Uso:**
-  * *Interattiva*: Avvia lo script e trascina la cartella direttamente nel terminale.
-  * *CLI (Command Line Interface)*: Passa il percorso della cartella direttamente come argomento per l'automazione.
-* **Ignora File di Sistema:** Esclude automaticamente i `.DS_Store` di macOS.
+**Doppia Modalità d'Uso:**
+
+* *Interattiva*: Avvia lo script e trascina la cartella direttamente nel terminale.
+* *CLI (Command Line Interface)*: Passa il percorso della cartella direttamente come argomento per l'automazione.
+
+**Ignora File di Sistema:** Esclude automaticamente i file `.DS_Store` di macOS.
 
 ---
 
